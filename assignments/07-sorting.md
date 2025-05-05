@@ -11,7 +11,7 @@
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [Majority Element](https://leetcode.com/problems/majority-element/)
-- error-[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - done-[Missing Number](https://leetcode.com/problems/missing-number/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
@@ -51,7 +51,7 @@
 - [Sort List](https://leetcode.com/problems/sort-list/)
 - [Largest Number](https://leetcode.com/problems/largest-number/)
 - [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+- error-[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - done-[Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 
 ## Hard
