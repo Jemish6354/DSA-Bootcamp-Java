@@ -14,7 +14,7 @@
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 - [Add Binary](https://leetcode.com/problems/add-binary/)
-- [Power of Two](https://leetcode.com/problems/power-of-two/)
+- done-[Power of Two](https://leetcode.com/problems/power-of-two/)
 
 ## Medium
 - [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
