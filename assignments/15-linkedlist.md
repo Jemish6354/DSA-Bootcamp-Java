@@ -5,7 +5,7 @@
 - done-[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode`
 - done-[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode`
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`
-- [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
+- done-[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
 - done-[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
 - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
 - done-[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`
