@@ -4,7 +4,7 @@
 - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode`
 - done-[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
 - done-[Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
-- [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
+- done-[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
 - done-[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
 - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
 - [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) `GFG`
