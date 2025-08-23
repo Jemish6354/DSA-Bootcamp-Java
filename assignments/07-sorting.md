@@ -10,7 +10,7 @@
 
 ## Easy
 - done-[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
+- done-[Majority Element](https://leetcode.com/problems/majority-element/)
 - done-[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - done-[Missing Number](https://leetcode.com/problems/missing-number/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
@@ -56,5 +56,6 @@
 
 ## Hard
 - done-[First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
 
 
