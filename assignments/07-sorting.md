@@ -17,7 +17,7 @@
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - done-[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
-- [Array Partition I](https://leetcode.com/problems/array-partition-i/)
+- pageNotFound-[Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - done-[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
@@ -56,6 +56,7 @@
 
 ## Hard
 - done-[First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
 
 
 
