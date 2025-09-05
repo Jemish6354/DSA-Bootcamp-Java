@@ -18,7 +18,7 @@
 - done-[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
 - done-[Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - resourseNotFound-[Array Partition I](https://leetcode.com/problems/array-partition-i/)
-- [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+- done-[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - done-[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
 - [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)
@@ -56,6 +56,7 @@
 
 ## Hard
 - done-[First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
 
 
 
