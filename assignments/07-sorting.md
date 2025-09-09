@@ -38,7 +38,7 @@
 - [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)
 - done-[Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - done-[Set Mismatch](https://leetcode.com/problems/set-mismatch/)
-- [2Sum](https://leetcode.com/problems/two-sum/)
+- done-[2Sum](https://leetcode.com/problems/two-sum/)
 
 ## Medium
 - [3Sum](https://leetcode.com/problems/3sum/)
@@ -56,6 +56,7 @@
 
 ## Hard
 - done-[First missing Positive](https://leetcode.com/problems/first-missing-positive/)
+
 
 
 
