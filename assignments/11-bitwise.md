@@ -5,7 +5,7 @@
 ## Easy
 - [Add Binary](https://leetcode.com/problems/add-binary/)
 - done-[Single Number](https://leetcode.com/problems/single-number/)
-- [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
+- done-[Reverse Bits](https://leetcode.com/problems/reverse-bits/)
 - done-[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - done-[Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
