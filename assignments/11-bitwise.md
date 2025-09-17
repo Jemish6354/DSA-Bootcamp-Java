@@ -14,7 +14,7 @@
 - [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - done-[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - done-[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
-- done[Binary Gap](https://leetcode.com/problems/binary-gap/)
+- done-[Binary Gap](https://leetcode.com/problems/binary-gap/)
 - done-[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 - done-[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - done-[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
