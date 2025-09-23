@@ -13,7 +13,7 @@
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - done-[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
-- [Add Binary](https://leetcode.com/problems/add-binary/)
+- done-[Add Binary](https://leetcode.com/problems/add-binary/)
 - done-[Power of Two](https://leetcode.com/problems/power-of-two/)
 
 ## Medium
