@@ -9,7 +9,7 @@
 - GFG-[Armstrong Numbers ](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical)
 - done-[Power of Four](https://leetcode.com/problems/power-of-four/)
 - GFG-[Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical)
-- [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+- done-[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - done-[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - done-[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
