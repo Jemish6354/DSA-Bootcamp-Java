@@ -33,7 +33,7 @@
 ## Medium
 
 - dp-[Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
-- [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
+- stringMatching-[Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
 - done-[Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
 - [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
 - [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
@@ -66,6 +66,7 @@
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+
 
 
 
