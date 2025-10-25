@@ -50,7 +50,7 @@
 - [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
 - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
-- [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
+- done-[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 
 ## Hard
 
@@ -66,6 +66,7 @@
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+
 
 
 
