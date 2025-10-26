@@ -48,7 +48,7 @@
 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
 - done-[Shifting Letters](https://leetcode.com/problems/shifting-letters/)
 - [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
-- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
+- done-[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
 - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
 - done-[Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 
@@ -66,6 +66,7 @@
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+
 
 
 
