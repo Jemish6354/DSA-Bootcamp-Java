@@ -22,7 +22,7 @@
 - done-[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - done-[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - done-[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-- [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
+- dp-match-[Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
 - done-[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 - done-[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - done-[Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
@@ -66,6 +66,7 @@
 # Additionally
 
 - [Click "Show problem tags" and do questions that have tags for things we have learnt so far only.](https://leetcode.com/tag/string/)
+
 
 
 
