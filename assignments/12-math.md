@@ -23,7 +23,7 @@
 - [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 - [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
 - [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
-- [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
+- done-[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - [The k<sup>th</sup> Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
 - [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)
 - [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
